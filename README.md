@@ -7,6 +7,7 @@
 
 * Github
 * Python 
+* Visual Studio Code
 
 # Useful Websites
 
